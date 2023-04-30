@@ -1,0 +1,40 @@
+{
+"coord":{"lon":3.75,
+"lat":6.5833
+},
+"weather":[{"id":803,
+"main":"Clouds",
+"description":"broken clouds",
+"icon":"04d"}
+],
+"base":"stations",
+"main":{
+    "temp":305.29,
+    "feels_like":309.36,
+    "temp_min":305.29,
+    "temp_max":305.29,
+    "pressure":1007,
+    "humidity":56,
+    "sea_level":1007,
+    "grnd_level":1007
+    },
+    "visibility":10000,
+    "wind":
+    {"speed":4.68,
+    "deg":194,
+    "gust":4.91
+},
+    "clouds":{
+        "all":59
+ },
+"dt":1680362138,
+"sys":{
+    "country":"NG",
+    "sunrise":1680327806,
+    "sunset":1680371654
+    },
+    "timezone":3600,
+    "id":2332453,
+    "name":"Lagos",
+    "cod":200
+}
